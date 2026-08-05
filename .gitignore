@@ -1,3 +1,8 @@
-monkeytype/*,
-chunk1_prompt.txt,
+monkeytype/
+chunk1_prompt.txt
 chunk2_prompt.txt
+main
+pinakatype
+pinakatype.sh
+graphify-out/
+
