@@ -16,7 +16,9 @@
       "Bash(sort -k5 -hr)",
       "Bash(ls -l monkeytype/frontend/static/languages/*_*.json)",
       "Bash(find:*)",
-      "Bash(go test:*)"
+      "Bash(go test:*)",
+      "WebSearch",
+      "Bash(go list:*)"
     ]
   },
   "enabledPlugins": {
