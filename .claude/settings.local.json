@@ -18,5 +18,8 @@
       "Bash(find:*)",
       "Bash(go test:*)"
     ]
+  },
+  "enabledPlugins": {
+    "readme-generator@glincker-marketplace": true
   }
 }
