@@ -86,8 +86,8 @@ ssh localhost -p 2222
 
 ```
 ┌──────────┐       SSH        ┌──────────────┐      ┌───────────────┐
-│ Terminal  │ ──────────────>  │  Wish Server │ ───> │  Bubble Tea   │
-│ (client)  │  ed25519 auth   │  (port 2222) │      │  TUI Session  │
+│ Terminal │ ──────────────>  │  Wish Server │ ───> │  Bubble Tea   │
+│ (client) │  ed25519 auth    │  (port 2222) │      │  TUI Session  │
 └──────────┘                  └──────────────┘      └───────┬───────┘
                                                             │
                                                     ┌───────┴───────┐
